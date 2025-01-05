@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vipin-kumar-72878721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vipin-kumar-72878721b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vipin-kumar-yadav-72878721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vipin-kumar-yadav-72878721b/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/viper_ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/viper_ky" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/viper_ky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[https://leetcode.com/viper_ky/](https://leetcode.com/u/viper_ky/)" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vipinkumarkgq9/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vipinkumarkgq9/practice" height="30" width="40" /></a>
