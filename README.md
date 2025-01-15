@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!!👋, I'm Vipin Kumar Yadav</h1>
-<h3 align="center">A passionate Machine learning Enthusiast from India</h3>
+<h3 align="center">Passionate Developer & Machine Learning Enthusiast from India</h3>
 
 - 🌱 I’m currently learning **PyTorch,LLM**
 
